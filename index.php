@@ -3,15 +3,21 @@
 <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Document PHP </title>
+            <title>Document</title>
 </head>
 <body>
-            <H1>TESTANDO PHP </H1>
-            <?php
-            echo "Olá mundo!"
-            ?>
-            <p>Nom : </p>
-            <p>Email : </p>
-            <p>Age : </p>
+            <form method="post" action= "UsuarioControll.php"  >
+            
+            <table>
+               <tr>
+                 <td colspan="2" bgcolor= "lightgray" aling="center">
+                        Cadastro de Usuario
+
+                 </td>
+               </tr>
+            </table>
+            
+            
+            </form>
 </body>
 </html>
