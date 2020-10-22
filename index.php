@@ -10,5 +10,8 @@
             <?php
             echo "Olá mundo!"
             ?>
+            <p>Nom : </p>
+            <p>Email : </p>
+            <p>Age : </p>
 </body>
 </html>
